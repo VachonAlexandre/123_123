@@ -15,4 +15,5 @@ struct _23_123App: App {
         }
     }
     var a = 1;
+    var b = 2;
 }
