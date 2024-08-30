@@ -14,4 +14,5 @@ struct _23_123App: App {
             ContentView()
         }
     }
+    var a = 1;
 }

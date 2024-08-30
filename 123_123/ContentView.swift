@@ -23,7 +23,5 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
-    var alex = false;
-    var emilie = true;
-    var veronica = true;
+    
 }
