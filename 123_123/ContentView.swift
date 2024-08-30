@@ -24,4 +24,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
     var alex = false;
+    var emilie = true;
+    var veronica = true;
 }
